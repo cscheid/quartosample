@@ -1,0 +1,9 @@
+---
+title: some plot
+---
+
+Will this work?
+
+```{r}
+plot(mtcars)
+```
